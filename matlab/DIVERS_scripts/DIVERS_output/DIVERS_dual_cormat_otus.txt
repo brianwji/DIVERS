@@ -1,0 +1,132 @@
+OTU_ID	Taxonomy
+2	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Roseburia; 99%
+3	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 100%
+4	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 96%
+5	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 100%
+6	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Faecalibacterium; 93%
+7	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Dorea; 98%
+8	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Coriobacteridae; 100%; Coriobacteriales; 100%; "Coriobacterineae"; 100%; Coriobacteriaceae; 100%; Collinsella; 100%
+9	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Anaerostipes; 100%
+10	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Gemmiger; 76%
+11	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Fusicatenibacter; 96%
+12	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Actinobacteridae; 100%; Bifidobacteriales; 100%; Bifidobacteriaceae; 100%; Bifidobacterium; 100%
+13	Root; 100%; Bacteria; 100%; Firmicutes; 98%; Clostridia; 98%; Clostridiales; 98%; Ruminococcaceae; 94%; Clostridium IV; 68%
+14	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Erysipelotrichia; 100%; Erysipelotrichales; 100%; Erysipelotrichaceae; 100%; Clostridium XVIII; 75%
+15	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 100%
+16	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Coprococcus; 98%
+17	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Bacilli; 100%; Lactobacillales; 100%; Streptococcaceae; 100%; Streptococcus; 100%
+18	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 93%; Lachnospiracea_incertae_sedis; 92%
+19	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Ruminococcus2; 81%
+20	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 92%; Butyricicoccus; 82%
+21	Root; 100%; Bacteria; 100%; Firmicutes; 97%; Clostridia; 81%; Clostridiales; 81%; Ruminococcaceae; 63%; Sporobacter; 33%
+22	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Ruminococcus; 100%
+23	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Dorea; 96%
+24	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+25	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Lachnospiracea_incertae_sedis; 75%
+26	Root; 100%; Bacteria; 100%; Firmicutes; 99%; Clostridia; 99%; Clostridiales; 98%; Ruminococcaceae; 96%; Clostridium IV; 66%
+27	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Peptostreptococcaceae; 100%; Romboutsia; 96%
+28	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Lachnospiracea_incertae_sedis; 92%
+32	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Lachnospiracea_incertae_sedis; 98%
+33	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Ruminococcus; 100%
+34	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 99%; Lachnospiracea_incertae_sedis; 68%
+35	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Faecalibacterium; 77%
+37	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Bacilli; 100%; Lactobacillales; 100%; Enterococcaceae; 100%; Enterococcus; 100%
+38	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Ruminococcus2; 42%
+41	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+42	Root; 100%; Bacteria; 100%; "Actinobacteria"; 57%; Actinobacteria; 57%; Coriobacteridae; 54%; Coriobacteriales; 54%; "Coriobacterineae"; 54%; Coriobacteriaceae; 54%; Denitrobacterium; 24%
+43	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Negativicutes; 100%; Selenomonadales; 100%; Acidaminococcaceae; 100%; Phascolarctobacterium; 100%
+44	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+45	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 99%; Ruminococcaceae; 99%; Intestinimonas; 72%
+46	Root; 100%; Bacteria; 100%; Firmicutes; 98%; Clostridia; 98%; Clostridiales; 98%; Ruminococcaceae; 74%; Flavonifractor; 19%
+47	Root; 100%; Bacteria; 100%; Firmicutes; 84%; Clostridia; 53%; Clostridiales; 43%; Ruminococcaceae; 17%; Cellulosibacter; 13%
+48	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Peptostreptococcaceae; 100%; Intestinibacter; 88%
+49	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 99%; Clostridium XlVa; 78%
+50	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; "Rikenellaceae"; 100%; Alistipes; 100%
+52	Root; 100%; Bacteria; 100%; Firmicutes; 96%; Clostridia; 95%; Clostridiales; 95%; Ruminococcaceae; 78%; Anaerotruncus; 39%
+53	Root; 100%; Bacteria; 100%; Firmicutes; 99%; Clostridia; 99%; Clostridiales; 99%; Lachnospiraceae; 93%; Clostridium XlVb; 80%
+54	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 95%; Clostridium XlVa; 33%
+55	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Roseburia; 54%
+56	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Oscillibacter; 70%
+57	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Bacilli; 100%; Lactobacillales; 100%; Streptococcaceae; 100%; Lactococcus; 100%
+58	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Clostridiaceae 1; 100%; Clostridium sensu stricto; 100%
+59	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Negativicutes; 100%; Selenomonadales; 100%; Acidaminococcaceae; 100%; Acidaminococcus; 100%
+60	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+61	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 98%; Coprococcus; 25%
+62	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+63	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Coriobacteridae; 100%; Coriobacteriales; 100%; "Coriobacterineae"; 100%; Coriobacteriaceae; 100%; Asaccharobacter; 51%
+64	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Clostridium XlVa; 44%
+65	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 100%
+66	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Coriobacteridae; 100%; Coriobacteriales; 100%; "Coriobacterineae"; 100%; Coriobacteriaceae; 100%; Eggerthella; 100%
+67	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 99%; Anaerosporobacter; 21%
+68	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Clostridium IV; 65%
+69	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Lachnospiracea_incertae_sedis; 47%
+70	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Fusicatenibacter; 58%
+71	Root; 100%; Bacteria; 100%; "Verrucomicrobia"; 100%; Verrucomicrobiae; 100%; Verrucomicrobiales; 100%; Verrucomicrobiaceae; 100%; Akkermansia; 100%
+72	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Roseburia; 100%
+73	Root; 100%; Bacteria; 100%; Firmicutes; 99%; Clostridia; 98%; Clostridiales; 98%; Clostridiales_Incertae Sedis XIII; 63%; Mogibacterium; 45%
+74	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Coriobacteridae; 100%; Coriobacteriales; 100%; "Coriobacterineae"; 100%; Coriobacteriaceae; 100%; Gordonibacter; 100%
+75	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Erysipelotrichia; 100%; Erysipelotrichales; 100%; Erysipelotrichaceae; 100%; Turicibacter; 100%
+76	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Erysipelotrichia; 100%; Erysipelotrichales; 100%; Erysipelotrichaceae; 100%; Clostridium XVIII; 100%
+77	Root; 100%; Bacteria; 100%; Firmicutes; 97%; Clostridia; 93%; Clostridiales; 92%; Clostridiales_Incertae Sedis XIII; 49%; Anaerovorax; 39%
+78	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; "Prevotellaceae"; 100%; Paraprevotella; 100%
+79	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 99%; Lachnobacterium; 49%
+80	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 97%; Clostridium XlVa; 67%
+81	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Clostridium IV; 100%
+82	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Erysipelotrichia; 100%; Erysipelotrichales; 100%; Erysipelotrichaceae; 100%; Erysipelotrichaceae_incertae_sedis; 100%
+83	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 99%; Coprococcus; 34%
+84	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 59%
+85	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Erysipelotrichia; 100%; Erysipelotrichales; 100%; Erysipelotrichaceae; 100%; Coprobacillus; 84%
+86	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Subdoligranulum; 66%
+87	Root; 100%; Bacteria; 100%; Firmicutes; 75%; Negativicutes; 26%; Selenomonadales; 26%; Veillonellaceae; 25%; Dendrosporobacter; 15%
+88	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; "Porphyromonadaceae"; 100%; Parabacteroides; 100%
+89	Root; 100%; Bacteria; 100%; Firmicutes; 98%; Clostridia; 98%; Clostridiales; 98%; Ruminococcaceae; 93%; Clostridium IV; 81%
+90	Root; 100%; Bacteria; 100%; "Proteobacteria"; 100%; Betaproteobacteria; 100%; Burkholderiales; 100%; Sutterellaceae; 100%; Parasutterella; 100%
+91	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 98%; "Bacteroidia"; 71%; "Bacteroidales"; 71%; "Rikenellaceae"; 40%; Alistipes; 23%
+92	Root; 100%; Bacteria; 100%; Firmicutes; 98%; Clostridia; 98%; Clostridiales; 97%; Defluviitaleaceae; 43%; Defluviitalea; 43%
+93	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 96%; Lachnospiracea_incertae_sedis; 81%
+94	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 99%; Flavonifractor; 77%
+95	Root; 100%; Bacteria; 100%; Firmicutes; 95%; Clostridia; 93%; Clostridiales; 93%; Clostridiales_Incertae Sedis XIII; 46%; Anaerovorax; 40%
+96	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Coriobacteridae; 100%; Coriobacteriales; 100%; "Coriobacterineae"; 100%; Coriobacteriaceae; 100%; Asaccharobacter; 20%
+97	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 98%; Dorea; 46%
+98	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 99%; Clostridiales; 99%; Ruminococcaceae; 96%; Sporobacter; 43%
+99	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 85%; Sporobacter; 41%
+100	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 98%; Clostridium XlVb; 98%
+101	Root; 100%; Bacteria; 100%; "Proteobacteria"; 100%; Gammaproteobacteria; 100%; Pasteurellales; 100%; Pasteurellaceae; 100%; Haemophilus; 69%
+102	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Clostridium XlVa; 65%
+103	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Clostridium XlVa; 57%
+104	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Clostridium XlVa; 80%
+105	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 99%; Clostridiales; 99%; Ruminococcaceae; 99%; Oscillibacter; 99%
+106	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 99%; Oscillibacter; 98%
+107	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Actinobacteridae; 100%; Actinomycetales; 100%; Actinomycineae; 100%; Actinomycetaceae; 100%; Actinomyces; 100%
+108	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; "Rikenellaceae"; 100%; Alistipes; 100%
+109	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Flavonifractor; 100%
+110	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+111	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; "Porphyromonadaceae"; 100%; Odoribacter; 100%
+112	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 93%; Butyrivibrio; 24%
+113	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Clostridium XlVa; 42%
+114	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Flavonifractor; 67%
+115	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 96%; Clostridium XlVa; 27%
+116	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Negativicutes; 100%; Selenomonadales; 100%; Veillonellaceae; 100%; Veillonella; 100%
+117	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Bacilli; 100%; Lactobacillales; 100%; Streptococcaceae; 100%; Streptococcus; 100%
+118	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 89%; Ruminococcus2; 31%
+120	Root; 100%; Bacteria; 100%; Firmicutes; 95%; Clostridia; 93%; Clostridiales; 93%; Lachnospiraceae; 50%; Clostridium XlVb; 50%
+121	Root; 100%; Bacteria; 100%; "Proteobacteria"; 100%; Deltaproteobacteria; 100%; Desulfovibrionales; 100%; Desulfovibrionaceae; 100%; Bilophila; 100%
+122	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Peptostreptococcaceae; 100%; Terrisporobacter; 100%
+130	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+133	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 87%; Anaerosporobacter; 28%
+136	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 99%; Anaerosporobacter; 25%
+140	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Sporobacter; 78%
+151	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Dorea; 21%
+161	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Actinobacteridae; 100%; Actinomycetales; 100%; Actinomycineae; 100%; Actinomycetaceae; 100%; Actinomyces; 100%
+213	Root; 100%; Bacteria; 100%; Firmicutes; 99%; Clostridia; 96%; Clostridiales; 96%; Clostridiaceae 1; 93%; Clostridium sensu stricto; 84%
+252	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Hespellia; 57%
+285	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 99%; Clostridiales; 99%; Lachnospiraceae; 94%; Roseburia; 42%
+305	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Clostridium XlVa; 32%
+316	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 100%
+354	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Faecalibacterium; 100%
+374	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Ruminococcus2; 100%
+387	Root; 100%; Bacteria; 100%; "Bacteroidetes"; 100%; "Bacteroidia"; 100%; "Bacteroidales"; 100%; Bacteroidaceae; 100%; Bacteroides; 100%
+392	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Actinobacteridae; 100%; Bifidobacteriales; 100%; Bifidobacteriaceae; 100%; Bifidobacterium; 95%
+398	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Blautia; 62%
+423	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Clostridium XlVa; 83%
+437	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Roseburia; 100%
