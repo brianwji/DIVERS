@@ -62,8 +62,7 @@ usage: ./DIVERS.m
 
 ```
 
-DIVERS: Biological (non-technical) and technical variance and covariance
-  contribution estimates from absolute bacterial abundance data
+usage: ./DIVERS.m 
 
   *User required to specify input and saving directories
 
