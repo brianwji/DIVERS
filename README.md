@@ -1,5 +1,5 @@
 # DIVERS: Decomposition of Variance Using Replicate Sampling
-MATLAB code for DIVERS (Decomposition of Variance Using Replicate Sampling), including absolute abundance estimation from spike-in sequencing and variance decompostion of absolute abundance. We have tested this code for MATLAB_R2016a.
+MATLAB code for DIVERS (Decomposition of Variance Using Replicate Sampling), including absolute abundance estimation from spike-in sequencing and variance/covariance decompostion of absolute bacterial abundances. We have tested this code for MATLAB_R2016a.
 
 ## MATLAB notebooks
 
