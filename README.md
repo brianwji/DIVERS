@@ -62,7 +62,7 @@ usage: ./DIVERS.m
 
 ```
 
-usage: ./DIVERS.m 
+usage: ./DIVERS_dual.m 
 
   *User required to specify input and saving directories
 
