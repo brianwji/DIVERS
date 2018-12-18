@@ -117,7 +117,6 @@ OTU_ID	Taxonomy
 136	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 99%; Anaerosporobacter; 25%
 140	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Ruminococcaceae; 100%; Sporobacter; 78%
 151	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Dorea; 21%
-161	Root; 100%; Bacteria; 100%; "Actinobacteria"; 100%; Actinobacteria; 100%; Actinobacteridae; 100%; Actinomycetales; 100%; Actinomycineae; 100%; Actinomycetaceae; 100%; Actinomyces; 100%
 213	Root; 100%; Bacteria; 100%; Firmicutes; 99%; Clostridia; 96%; Clostridiales; 96%; Clostridiaceae 1; 93%; Clostridium sensu stricto; 84%
 252	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 100%; Clostridiales; 100%; Lachnospiraceae; 100%; Hespellia; 57%
 285	Root; 100%; Bacteria; 100%; Firmicutes; 100%; Clostridia; 99%; Clostridiales; 99%; Lachnospiraceae; 94%; Roseburia; 42%

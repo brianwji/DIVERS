@@ -42,10 +42,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %Directory containing absolute abundance tables
-file_dir = ['/Path/To/.../absolute_abundances/'];
+file_dir = ['./absolute_abundances/'];
 
 %Directory to save DIVERS output to
-save_dir = ['/Path/To/.../DIVERS_output/'];
+save_dir = ['./matlab/DIVERS_scripts/DIVERS_output/'];
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -373,7 +373,7 @@ clear covs_XZ covs_XmZY vars_XmY sigxsigy data_X_perm data_Y_perm data_Z_perm da
 
 %% Saving
 
-save([save_dir 'DIVERS.mat']);
+save([save_dir 'matData/DIVERS.mat']);
 
 %% Write to output
 
